@@ -1,0 +1,13 @@
+Brand Context:
+{{brand_context}}
+
+User Query:
+{{user_query}}
+
+Task:
+Generate a FLUX2-safe image generation prompt that strictly follows the Canonical FLUX Schema defined in the system instructions.
+
+Ensure:
+- Brand abstraction
+- FLUX compatibility
+- Valid JSON only

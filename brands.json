@@ -1,0 +1,223 @@
+{
+    "all_brands": [
+        {
+            "brand_id": 1,
+            "brand_name": "Under Armour",
+            "mission": "To make all athletes better through passion, design, and the relentless pursuit of innovation.",
+            "category": "sports/fitness",
+            "brand_voice": "Under Armour's brand voice is authentic, empowering, and motivational, speaking directly to athletes with a tone of resilience, determination, and unapologetic ambition. It emphasizes as a core theme—fostering a sense of grit and overcoming obstacles, often through storytelling that highlights underdogs and personal triumphs. The voice is bold yet inclusive, blending street-smart edge with performance-driven inspiration to connect with the next generation of athletes.",
+            "visual_style": "Under Armour's visual identity is dynamic, high-performance, and modern, blending athletic heritage with streetwear influences. Designs feature clean lines, bold graphics, and innovative textures that evoke speed, strength, and versatility. Imagery often showcases athletes in action—sweat, motion, and intensity—with a focus on real-world grit rather than polished perfection. The style prioritizes functionality (e.g., moisture-wicking fabrics visualized in use) while incorporating cultural elements like quilting patterns for diversity and empowerment.",
+            "brand_colors": [
+                "#000000",
+                "#FFFFFF",
+                "#FF0000"
+            ],
+            "website": "www.underarmour.com/en-us/",
+            "instagram_url": "www.instagram.com/underarmour/",
+            "facebook_url": "www.facebook.com/underarmour/",
+            "x_url": "www.x.com/underarmour/",
+            "linkedin_url": "www.linkedin.com/company/under-armour"
+        },
+        {
+            "brand_id": 2,
+            "brand_name": "Nike",
+            "mission": "To bring inspiration and innovation to every athlete in the world. If you have a body, you are an athlete. Our purpose is to move the world forward through the power of sport by leveling the playing field, protecting our collective playground, and expanding access to sport for everyone.",
+            "category": "sports/fitness",
+            "brand_voice": "Confident, aspirational, and motivational, empowering athletes to push limits and achieve greatness. It speaks directly to consumers as fellow athletes, using first-person pronouns like 'I' and 'we' to foster a sense of community and determination. The iconic slogan 'Just Do It' embodies this spirit of action and resilience.",
+            "visual_style": "Dynamic and bold, centered on the iconic Swoosh logo symbolizing motion, speed, and victory (inspired by the Greek goddess Nike's wings). The design emphasizes performance, authenticity, and innovation with clean, modern aesthetics—bold sans-serif fonts, high-energy imagery of athletes in action, and a focus on simplicity to highlight product functionality and cultural relevance.",
+            "brand_colors": [
+                "#000000",
+                "#FFFFFF"
+            ],
+            "website": "www.nike.com/en-us/",
+            "instagram_url": "www.instagram.com/nike/",
+            "facebook_url": "www.facebook.com/nike/",
+            "x_url": "www.x.com/nike/",
+            "linkedin_url": "www.linkedin.com/company/nike"
+        },
+        {
+            "brand_id": 3,
+            "brand_name": "Havells",
+            "mission": "To achieve its vision through fairness, strong business ethics, global reach, technological expertise, and by building long-term relationships with its associates, customers, partners, and employees.",
+            "category": "sports/fitness",
+            "brand_voice": "Havells’ brand voice is confident, warm, and trustworthy, balancing innovation with human connection. It speaks in a clear, positive, and reassuring tone that simplifies technology for everyday users while still reflecting engineering excellence. The communication focuses on safety, reliability, smart living, and progress, often linking products to emotions like comfort, care for family, and ease of life. Havells avoids technical heaviness in consumer messaging, instead using relatable language that highlights how technology improves daily living, making the brand feel dependable, modern, and people-centric.",
+            "visual_style": "Havells’ visual style is clean, premium, and contemporary, with strong use of red and white as core brand colors symbolizing energy, trust, and clarity. Designs emphasize minimalism, balanced layouts, and well-lit environments, often showcasing products in modern Indian homes and aspirational lifestyles. Photography is bright, sharp, and realistic, highlighting product details while maintaining warmth and approachability. The overall visual language communicates innovation, safety, and elegance, ensuring the brand feels both technologically advanced and emotionally relatable.",
+            "brand_colors": [
+                "#E31E24",
+                "#FFFFFF"
+            ],
+            "website": "www.havells.com",
+            "instagram_url": "www.instagram.com/@havellsindia",
+            "facebook_url": "www.facebook.com/havellsindia/"
+        },
+        {
+            "brand_id": 4,
+            "brand_name": "Dell Technologies",
+            "mission": "To create technologies that drive human progress by empowering people and organizations everywhere to transform how they work, live, and innovate.",
+            "category": "Technology",
+            "brand_voice": "Professional, confident, and trustworthy, with a clear and solution-oriented tone. Dell communicates as a reliable technology partner, focusing on innovation, productivity, and long-term value. The voice is calm and authoritative rather than flashy, emphasizing clarity, expertise, and real-world impact for businesses, developers, and everyday users.",
+            "visual_style": "Clean, modern, and technology-focused, with strong emphasis on simplicity and precision. Dell’s visuals use ample white space, sharp layouts, and realistic product and enterprise imagery. The design language highlights innovation, performance, and scalability, often showcasing devices and infrastructure in professional, real-world environments.",
+            "brand_colors": [
+                "#0076CE",
+                "#FFFFFF",
+                "#000000",
+                "#4D4D4D"
+            ],
+            "website": "https://www.dell.com",
+            "instagram_url": "https://www.instagram.com/dell",
+            "facebook_url": "https://www.facebook.com/Dell",
+            "x_url": "https://x.com/Dell",
+            "linkedin_url": "https://www.linkedin.com/company/dell-technologies"
+        },
+        {
+            "brand_id": 5,
+            "brand_name": "GlobalPay (WSFx GlobalPay)",
+            "mission": "To provide seamless, secure, and end-to-end foreign exchange and cross-border payment solutions that simplify global transactions for students, corporates, and travel partners, while maintaining the highest standards of compliance, trust, and customer service.",
+            "category": "Finance",
+            "brand_voice": "Professional, trustworthy, and assurance-driven, with a strong focus on reliability and regulatory compliance. GlobalPay communicates with clarity and confidence, positioning itself as a dependable forex and international payments partner. The tone is formal yet approachable, emphasizing security, transparency, and long-term customer relationships.",
+            "visual_style": "Clean, corporate, and modern, with a focus on credibility and global connectivity. Visuals often use minimal layouts, muted professional tones, and imagery related to international travel, finance, and global networks. The design language prioritizes clarity, stability, and trust over flashiness, aligning with the expectations of financial services customers.",
+            "brand_colors": [
+                "#0B1F3A",
+                "#1F4ED8",
+                "#FFFFFF",
+                "#A0A4AB"
+            ],
+            "website": "https://www.wsfxglobalpay.com",
+            "instagram_url": "https://www.instagram.com/globalpay_wsfx",
+            "facebook_url": "https://www.facebook.com/wsfx.in",
+            "x_url": "https://x.com/wsfx_in",
+            "linkedin_url": "https://www.linkedin.com/company/wsfx"
+        },
+        {
+            "brand_id": 6,
+            "brand_name": "LEGO",
+            "mission": "To inspire and develop the builders of tomorrow by nurturing creativity, imagination, and learning through play, enabling children and adults to explore, experiment, and build without limits.",
+            "category": "others",
+            "brand_voice": "Playful, optimistic, and inspiring, with a strong focus on creativity, imagination, and learning. LEGO’s voice is friendly and inclusive, speaking to both children and adults as creators and builders. It encourages curiosity, problem-solving, and self-expression, while maintaining a tone of trust, positivity, and timeless fun.",
+            "visual_style": "Bright, colorful, and highly expressive, centered around iconic LEGO bricks and characters. The visual style emphasizes creativity, construction, and storytelling, using bold primary colors, clean compositions, and dynamic scenes that showcase imagination in action. Designs are simple yet vibrant, instantly recognizable, and appeal across generations.",
+            "brand_colors": [
+                "#E3000B",
+                "#FFD500",
+                "#0055BF",
+                "#000000",
+                "#FFFFFF"
+            ],
+            "website": "https://www.lego.com/en-us",
+            "instagram_url": "https://www.instagram.com/lego",
+            "facebook_url": "https://www.facebook.com/LEGO",
+            "x_url": "https://x.com/LEGO_Group",
+            "linkedin_url": "https://www.linkedin.com/company/lego-group"
+        },
+        {
+            "brand_id": 7,
+            "brand_name": "Hindustan Unilever Limited",
+            "mission": "To add vitality to life by meeting everyday needs for nutrition, hygiene, and personal care with brands that help people feel good, look good, and get more out of life, while growing the business in a sustainable and responsible way.",
+            "category": "Manufacturing",
+            "brand_voice": "Responsible, inclusive, and purpose-driven, with a strong emphasis on trust, sustainability, and positive social impact. HUL’s voice balances corporate responsibility with everyday relevance, communicating care for people, communities, and the planet. It is reassuring and optimistic, focusing on long-term value, well-being, and progress for Indian households.",
+            "visual_style": "Clean, approachable, and human-centric, reflecting everyday Indian life. Visuals often feature real people, families, and communities, combined with bright, fresh colors and simple compositions. The design language emphasizes warmth, trust, sustainability, and accessibility, while maintaining a modern and professional FMCG aesthetic.",
+            "brand_colors": [
+                "#0057A3",
+                "#FFFFFF",
+                "#00A651",
+                "#F2F2F2"
+            ],
+            "website": "https://www.hul.co.in",
+            "instagram_url": "https://www.instagram.com/hul_india",
+            "facebook_url": "https://www.facebook.com/HUL",
+            "x_url": "https://x.com/HUL_News",
+            "linkedin_url": "https://www.linkedin.com/company/hindustan-unilever-limited"
+        },
+        {
+            "brand_id": 8,
+            "brand_name": "Cello",
+            "mission": "To innovate and deliver affordable, high-quality writing instruments and office products that empower individuals to express ideas, learn effectively, and perform at their best — while maintaining sustainability, accessibility, and trust for consumers worldwide.",
+            "category": "Manufacturing",
+            "brand_voice": "Clear, friendly, and trustworthy, focusing on reliability and everyday usefulness. Cello’s voice speaks to students, professionals, and families with an encouraging and straightforward tone, emphasizing quality, performance, and accessibility. The messaging reflects practicality, positivity, and dependability across all age groups.",
+            "visual_style": "Simple, vibrant, and functional, highlighting product clarity and ease of use. Visuals feature clean compositions with bright, approachable colors, product close-ups, and scenes of writing, learning, and creativity in action. The visual language underscores practicality, durability, and accessible design.",
+            "brand_colors": [
+                "#FFCD00",
+                "#000000",
+                "#FFFFFF"
+            ],
+            "website": "https://celloworld.com",
+            "instagram_url": "https://www.instagram.com/celloworld",
+            "facebook_url": "https://www.facebook.com/CelloWorld",
+            "x_url": "https://x.com/celloworld",
+            "linkedin_url": "https://www.linkedin.com/company/celloworld"
+        },
+        {
+            "brand_id": 9,
+            "brand_name": "Netflix",
+            "mission": "To entertain the world by telling great stories across a wide range of genres, cultures, and languages—connecting audiences everywhere through films, series, and interactive experiences they love, anytime and anywhere.",
+            "category": "entertainment/media/streaming",
+            "brand_voice": "Bold, conversational, and audience-first, with a strong emphasis on storytelling, creativity, and cultural relevance. Netflix’s voice is global yet personal, inclusive yet confident, speaking directly to viewers as participants in entertainment rather than passive consumers. The tone balances wit, emotional depth, and cultural awareness while championing diverse creators and voices worldwide.",
+            "visual_style": "Cinematic, immersive, and high-impact, built around strong storytelling visuals. The style favors dark, dramatic backgrounds with high contrast, striking hero imagery, and minimalistic layouts that allow content to take center stage. Motion, scale, and emotion are key—whether through trailers, key art, or typography—creating a premium, binge-worthy entertainment experience.",
+            "brand_colors": [
+                "#E50914",
+                "#221F1F",
+                "#FFFFFF"
+            ],
+            "website": "https://about.netflix.com/en",
+            "instagram_url": "https://www.instagram.com/netflix/",
+            "facebook_url": "https://www.facebook.com/netflix",
+            "x_url": "https://x.com/Netflix",
+            "linkedin_url": "https://www.linkedin.com/company/netflix/"
+        },
+        {
+            "brand_id": 10,
+            "brand_name": "Starshine",
+            "mission": "To provide innovative and enriching consumer electronics that enhance the digital lifestyle of youth and modern consumers by delivering quality technology products with meaningful experiences.",
+            "category": "Technology",
+            "brand_voice": "Youthful, engaging, and experience-focused, speaking in a tone that resonates with tech-savvy consumers looking for accessible and enjoyable electronic products. The brand voice is approachable and value-driven, emphasizing usefulness, connectivity, and modern lifestyle enhancement.",
+            "visual_style": "Contemporary and dynamic, using bold product shots and clean layouts that highlight the brand’s tech products. Visuals focus on clarity and energy, showcasing devices in everyday use with vibrant color accents to appeal to a younger audience. The design communicates innovation, practicality, and contemporary tech appeal.",
+            "brand_colors": [
+                "#000000",
+                "#FFFFFF",
+                "#0078FF"
+            ],
+            "website": "https://starshine.co.in",
+            "instagram_url": "https://www.instagram.com/starshine_india",
+            "facebook_url": "https://www.facebook.com/starshineindia",
+            "x_url": "https://x.com/starshine_india",
+            "linkedin_url": "https://www.linkedin.com/company/starshine-india"
+        },
+        {
+            "brand_id": 11,
+            "brand_name": "Russell Hobbs",
+            "mission": "To design and provide stylish, reliable, and innovative small home appliances that enhance everyday living by making routine tasks easier, more efficient, and enjoyable for consumers around the world.",
+            "category": "Home & Garden",
+            "brand_voice": "Warm, helpful, and approachable, with a focus on everyday reliability and user-friendly communication. Russell Hobbs speaks clearly and positively, emphasizing simplicity, quality, and stylish design that fits modern lifestyles. The tone is reassuring and practical, appealing to consumers looking for dependable small appliances.",
+            "visual_style": "Clean, contemporary, and product-centric, with well-lit photography showcasing modern kitchen and home environments. Visuals emphasize product design, functionality, and ease of use, supported by light backgrounds and lifestyle imagery that highlights everyday moments. The overall style balances practicality with aspirational home living aesthetics.",
+            "brand_colors": [
+                "#000000",
+                "#FFFFFF",
+                "#D32A2F",
+                "#A8A8A8"
+            ],
+            "website": "https://en.russellhobbs.com/",
+            "instagram_url": "https://www.instagram.com/russellhobbsuk/",
+            "facebook_url": "https://www.facebook.com/RussellHobbsUK/",
+            "x_url": "https://x.com/RussellHobbsUK",
+            "linkedin_url": "https://www.linkedin.com/company/russell-hobbs/"
+        },
+        {
+            "brand_id": 12,
+            "brand_name": "IKEA",
+            "mission": "To create a better everyday life for the many people by offering a wide range of well-designed, functional, and affordable home furnishing products that are sustainable, innovative, and accessible to all.",
+            "category": "Home & Garden",
+            "brand_voice": "Friendly, inclusive, and inspiring, with a focus on simplicity, practicality, and positive impact. IKEA communicates with clarity and warmth, speaking directly to everyday people and families. The voice emphasizes affordability, sustainability, and creative solutions for better living at home, while maintaining a light, human-centered tone.",
+            "visual_style": "Clean, bright, and functional, showcasing thoughtfully designed products in real-life home settings. Visuals use natural lighting, neutral backgrounds, and minimalist layouts to highlight product versatility and practical usage. Photography often features diverse individuals in everyday home moments, reinforcing accessibility and comfort.",
+            "brand_colors": [
+                "#FFCC00",
+                "#0058A3",
+                "#FFFFFF",
+                "#000000"
+            ],
+            "website": "https://www.ikea.com/in/en/",
+            "instagram_url": "https://www.instagram.com/ikeaindia/",
+            "facebook_url": "https://www.facebook.com/IKEAIndia/",
+            "x_url": "https://x.com/IKEAIndia",
+            "linkedin_url": "https://www.linkedin.com/company/ikea/"
+        }
+    ]
+}
